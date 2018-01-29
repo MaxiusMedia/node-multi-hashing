@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "multihashing",
   "author": {
-    "name": "zone117x"
+    "name": "MM"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/UNOMP/node-multi-hashing.git"
+    "url": "https://github.com/MaxiusMedia/node-multi-hashing.git"
   },
   "dependencies": {
     "bindings": "*"
@@ -17,6 +17,7 @@
     "scryptjane",
     "script-n",
     "x11",
+	"x17",
     "quark",
     "keccak_hash",
     "skein",
@@ -37,6 +38,6 @@
   "readmeFilename": "README.md",
   "description": "node-multi-hashing",
   "bugs": {
-    "url": "https://github.com/UNOMP/node-multi-hashing/issues"
+    "url": "https://github.com/MaxiusMedia/node-multi-hashing/issues"
   }
 }
